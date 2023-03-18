@@ -20,6 +20,11 @@
 	</p>
 
 	<p>
+		This is my addition- playing around with concepts
+	</p>
+	<button>Click Me</button>
+
+	<p>
 		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
 		using it with JavaScript disabled!
 	</p>
